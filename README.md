@@ -56,3 +56,15 @@ with the help of userService i am calling a method getuserbyid and return the us
 <h3> thankyou</h3>
 for any query you can message me at [email](sachinmishra9218@gmail.com)
 
+<h2>for executing the program </h2>
+<h3>download vs code</h3>
+step 1. download vs code for window
+<h3>dowload vs code extension</h3>
+step 2. you have to just download the extension
+<br>
+1.springboot extension pack
+<br>
+2.java extension pack<br>
+<h3>download restController</h3>
+
+
