@@ -57,6 +57,8 @@ with the help of userService i am calling a method getuserbyid and return the us
 for any query you can message me at [email](sachinmishra9218@gmail.com)
 
 <h2>for executing the program </h2>
+<h3>download project</h3>
+1. dowload zip folder rest controller in your computer and then extract it.
 <h3>download vs code</h3>
 step 1. download vs code for window
 <h3>dowload vs code extension</h3>
@@ -65,6 +67,33 @@ step 2. you have to just download the extension
 1.springboot extension pack
 <br>
 2.java extension pack<br>
-<h3>download restController</h3>
+
+<h3> choose project</h3>
+1.go to the project path where you unzip the restcontroller folder.
+<br>
+2.and then select demo folder which is inside the restcontroller folder.
+<h3>run file</h3>
+in vs code if you are selected project then click demo folder>src>main>>java>DemoApplication.java and run it.
+<h3> see result</h3>
+open browser write  url
+<br>
+localhost:2020/
+<h3>  result</h3>
+browser shows "these is test" then your application is run successfully 
+<br>
+else you have to try again or email me
+<h3>test Rest Controller</h3>
+step -1. open postman app
+<br>
+step-2. type url localhost:2020
+step-3 .test /user for (POST) 
+<br>
+/users for get users (GET)
+<br>
+/user/{id} (GET)
+and many more read above
+
+
+  
 
 
